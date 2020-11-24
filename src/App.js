@@ -4,8 +4,6 @@ import { Route, BrowserRouter as Router } from "react-router-dom";
 import SpeakOut from "./Components/SpeakOut/SpeakOut";
 import PinedLocation from "./Components/PinedLocation/PinedLocation";
 import MainContainer from "./Container/MainContainer/MainContainer";
-import BusAlarm from './Components/BusAlarm/busAlarm'
-import ReactDOM from 'react-dom';
 import dotenv from 'dotenv';
 
 dotenv.config();
