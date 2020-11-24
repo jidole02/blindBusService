@@ -11,3 +11,11 @@
 대구소프트웨어마이스터고: 전지수 (Backend)
 대구소프트웨어마이스터고: 김경원 (Android App)
 ```
+<br>
+
+**This product was made with..**
+```
+Frontend: ReactJs(tts, stt), GoogleMapsAPI
+Backend: NodeJs, SpringFramework, mysql, nosql, workbench
+```
+
