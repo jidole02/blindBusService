@@ -1,7 +1,7 @@
 import React from 'react'
 import Maps from '../../Components/Maps/Maps';
-import BusAlarm from '../../Component/busAlarm'
-import Footer from '../../Component/footer'
+import BusAlarm from '../../Components/Maps/busAlarm'
+import Footer from '../../Components/Maps/footer'
 
 const MainContainer = () => {
     return (

@@ -1,8 +1,8 @@
 import React, {Component, useState} from 'react';
 import './busAlarm.css'
 import * as B from './Style'
-import Alarm from './Container/Alarm'
-import Arrive from './Container/Arrive'
+import Alarm from '../../Container/MainContainer/Alarm'
+import Arrive from '../../Container/MainContainer/Arrive'
 import Footer from './footer'
 
 function speak(num, time){

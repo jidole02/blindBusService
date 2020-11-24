@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import * as B from './Style.js'
+import * as B from './StyleMap.js'
 import { Map, GoogleApiWrapper } from "google-maps-react";
 
 import { ReactComponent as Background } from '../../Assets/Background.svg';
