@@ -2,7 +2,11 @@ import styled, {css} from 'styled-components'
 
 const Background = styled.div`
 width:360px;
-height:640px;
+height:540px;
+i{
+    color:black;
+    opacity:0.8;
+}
 @media screen and (min-width:0px) and (max-width:360px) and (max-height: 640px)
 {
     a{
@@ -10,7 +14,7 @@ height:640px;
     }
     article{
         padding:20px 30px;
-        height:39%;
+        height:31%;
         a{
             font-size:15px;
             color:black;
@@ -31,7 +35,8 @@ height:640px;
                     padding:0px 10px;
                     :last-child{
                         font-size:12px;
-                        color:gray;
+                        color:rgb(187, 187, 187);
+                        margin-top:3px; 
                     }
                 }
                 :first-child{
@@ -52,9 +57,10 @@ height:640px;
 `
 
 const ArriveDiv = styled.div`
-width:100%;
 height:25%;
-padding:20px 30px;
+padding:0px 30px;
+padding-top:40px;
+background-color:white;
 a{
     font-size:15px;
     color:black;
@@ -97,7 +103,29 @@ article{
 
 `
 
+const footer = styled.div`
+width:80%;
+padding: 12px 10%;
+display:flex;
+justify-content:space-between;
+background-color:white;
+margin-top:315px;
+position: fixed;
+.a{
+    text-decoration:none;
+    font-weight:bold;
+    font-size:19px;
+    transition:1s;
+
+    color:gray;
+    :hover{
+        opacity:0.8;
+    }
+}
+`
+
 export{
     Background,
-    ArriveDiv
+    ArriveDiv,
+    footer
 }

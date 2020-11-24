@@ -1,7 +1,0 @@
-@media screen and (min-width:360px) and (max-width:640px){
-    .background{
-        width: 360px;
-        height: 640px;
-        background-color: rgb(235, 235, 235);                                                    
-    }   
-}

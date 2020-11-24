@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import './busAlarm.css'
 import * as B from './Style'
 
 class Arrive extends Component{
