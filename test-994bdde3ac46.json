@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "academic-atlas-296600",
+  "private_key_id": "994bdde3ac466c69c9328c3a36f532338af192b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZjDw10zHBSLfA\nndzIb3nJ0MDl9N1L56enRZPd2osVzwlqlEI+4uRB+jaHIvHTdWM9LHW9pTjw7u3f\nkOaBJ/+D8pqnhJWORjvwwxfm1iRYXFKyOLMvyT5Y1o9dkcp5dNK6vtQaI4UrAKIb\nwrhCp/nrKk5hMkk9zyzR9Hz9QOzQoqTNpHGdreQprJjdJfJY6VsqJbXUeQNGAsS1\n3OjjGKX1EUaCLO6aapBGutZiXu2xc3yXmLJnym+DnG+l0GzlugehBNnHoMckLfw+\nfUYE2/hPZLlXMDQAZF0twpI8YDzbe5uEVU6n2Tkv1cqfvaLzu77pRFU5ALqqLeHf\nkxAtHAKlAgMBAAECggEALj4dr1hO93W4X4h+3Zk6k2BdHJRt9NxPWiJTUeGKVo6t\ngvr0UO9EU1T3Qcb3DfqiJ2b7uR31iltTc4YWxUYGDZtkbe7kJnu98onZ2w7SZ3jq\neClOx33Y06P6EgrzNdmUEK+PIOZDgJZQHyQHLF4N5QPXaNg6UtnmvlNgvSmPnTJN\nDzjjIZ1G96so9t3VN2ec0ydJcLmZGcw2W9elilAh1AaT9qn2KEtRK4uYRKksiT4u\nhyLntJYzjGHREVaQyNYyegoux4aYfwgyhHmSXTEc8Pp1ebhYi7xllWX4qxyKMB6B\nMg7rNZadc+Boh8/ypIksrDJELsQHGRRaFThjSzQseQKBgQDsue2gSLFjUvccZaDC\nEG64IkzCBBiUT2+2VPrww+6qT/GQ5HtLWL2hJ5aAyNzTkm7aVQ+p9oGElCxu/xOS\nnIsDBm/UvyAcq8tUEJJKnBgmFvNp3P+5Yyz63n+GYt8z8vBuy1TAfCe2qmBOOGif\nmFx/165gwPFIvB93IZvJ2UMBeQKBgQDrQpIlMGQYZ8kM3X7uCk4PZbHdFiNhXvm0\nfips/2t5ghTV1JFd+NXwAscAw48/M70CtoCLv4eR/tzQ5GqWZ4rLUc/4duEiLq6y\nzpxNDA4qePSfE7Aar8vQs6JKgfx3CoS6WHCuECsgIhJSpwtQhUdX/7q6kXsCrQlD\nkP6JrkQLjQKBgQCWBmdgk3FIX0YYixfMpZllvOckdnAVXhqQVV8Lw0C4Ux3nE8ZH\nxB+5yFsLl0DMHRt/5zScJIuEuFtIpQOEgQ1gh23MSKxTP1UHG9F6015ClX0CdHrk\nxMO24de0FWkbhTV3Igm+S3DnxSZvrDQyIN9ObiQnUWAZFpBicbxHuhdLEQKBgHfT\nPGS8tP7JPdnTpybPENs+zMzyzap2mXCZIjrKDY+h9cLDthbK+wx4HawB7yAd1hNf\nqTGEqCRwT0AGV1OsAUF1thuzUQ/7/vcLzQhhL4XqfY3YlUXCbGksVWjltBVdwiS3\njwzZJ14CfJqkglrMx33GvvDv0FuYjrNfUoYFwJqxAoGAAIHa63M4CPz3WmSLCEO1\nqDpd2GpcdkKWBazU8LsW/nEzpt1iVVDMvGzd+swXVQWx82Hh698rSQ1++Udrnrz/\nP80p+DSFAsYHhWjMpEHvIkkUJM3GwEVdc22qw1nsuQOnBUTFgdovSrpOpoQisj+N\nNutqX8CVILnOES6WxDNVnOw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-7niobi2rblo1@academic-atlas-296600.iam.gserviceaccount.com",
+  "client_id": "108238489759168142550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-7niobi2rblo1%40academic-atlas-296600.iam.gserviceaccount.com"
+}
