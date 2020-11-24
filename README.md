@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 시각 장애인을 위한 버스 알림 서비스.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
