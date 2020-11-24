@@ -2,7 +2,7 @@ import styled, {css} from 'styled-components'
 
 const Background = styled.div`
 width:360px;
-height:640px;
+height:540px;
 i{
     color:black;
     opacity:0.8;
@@ -105,10 +105,12 @@ article{
 
 const footer = styled.div`
 width:80%;
-padding: 0 10%;
+padding: 12px 10%;
 display:flex;
 justify-content:space-between;
 background-color:white;
+margin-top:315px;
+position: fixed;
 .a{
     text-decoration:none;
     font-weight:bold;
