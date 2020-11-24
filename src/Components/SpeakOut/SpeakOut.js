@@ -1,8 +1,8 @@
 import React, { Component } from "react";
-import Mic from "./img/mic.png";
+import Mic from "../img/mic.png";
 import * as B from "./Style";
 
-class SpeckOut extends Component {
+class SpeakOut extends Component {
   render() {
     return (
       <B.Background>
@@ -17,4 +17,4 @@ class SpeckOut extends Component {
     );
   }
 }
-export default SpeckOut;
+export default SpeakOut;
