@@ -1,14 +1,16 @@
 import React from "react";
 import { Route, BrowserRouter as Router } from "react-router-dom";
-import SpeckOut from "./Components/SpeckOut";
-
 import MainContainer from "./Container/MainContainer/MainContainer";
+
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const App = () => {
   return (
     <Router>
-      {/* <Route exact path="/" component={MainContainer} /> */}
-      <Route exact path="/" component={SpeckOut} />
+      <Route exact path="/" component={MainContainer} />
+      
     </Router>
   );
 };
