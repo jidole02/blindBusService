@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Mic from "./img/Speck_Group.png";
+/* import Mic from "./img/Speck_Group.png"; */
 import "./SpeckOutStyle.css";
 
 class SpeckOut extends Component {
@@ -8,7 +8,7 @@ class SpeckOut extends Component {
       <section>
         <div class="section_wrap">
           <div class="section_container">
-            <img src={Mic} alt="Speck"/>
+{/*             <img src={Mic} alt="Speck"/> */}
           </div>
         </div>
       </section>
