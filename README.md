@@ -1,7 +1,7 @@
 # 시각 장애인을 위한 버스알림 모빌리티 서비스
 ## Bus Notification Mobility Services for the Blind
 
-*This project has been made.*
+**This project has been made.**
 
 ```
 대덕소프트웨어마이스터고: 정지원 (Frontend)
