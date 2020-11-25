@@ -1,4 +1,5 @@
-# 시각 장애인을 위한 버스알림 모빌리티 서비스 (Bus Notification Mobility Services for the Blind)
+# 시각 장애인을 위한 버스알림 모빌리티 서비스
+# (Bus Notification Mobility Services for the Blind)
 ## 소프트웨어마이스터 3개교 연합 해커톤_소리로 하는 여행 (11.23 ~ 11.25)
 **This project has been made..**
 
