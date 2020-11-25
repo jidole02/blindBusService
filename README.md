@@ -18,3 +18,8 @@
 Frontend: ReactJs(tts, stt), GoogleMapsAPI
 Backend: NodeJs, SpringFramework, mysql, nosql, workbench
 ```
+
+<br>
+
+**This is a prototype design..**
+> https://www.figma.com/file/1bwX9B6rG3bhoruIP3qhJ3/%EB%B2%84%EC%8A%A4%EC%98%A8%EB%8B%A4-BUS-ONDA
